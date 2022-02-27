@@ -6,7 +6,7 @@
 
 Leonardo, is a passionate developer of technology and the art of software development and analysis, seeking to constantly and effectively learn the best technologies today.
 
-### Languages and Tools (Linguagens e Ferramentas)
+### Languages and Tools
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)

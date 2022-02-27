@@ -44,4 +44,4 @@ Leonardo, is a passionate developer of technology and the art of software develo
   <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoquintania&layout=compact"/>
 </div>
 
-![Snake animation](https://github.com/leonardoquintania/leonardoquintania/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leonardoquintania/snake/blob/output/github-contribution-grid-snake.svg)
